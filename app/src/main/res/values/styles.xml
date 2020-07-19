@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="pinViewStyle">@style/PinWidget.PinView</item>
+
+    </style>
+
+    <style name="AppTheme.WhiteAccent">
+        <item name="colorAccent">#000</item> <!-- Whatever color you want-->
+    </style>
+
+
+
+</resources>

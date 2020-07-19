@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691894460259",
+    "firebase_url": "https://bldeacet.firebaseio.com",
+    "project_id": "bldeacet",
+    "storage_bucket": "bldeacet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691894460259:android:7ea8f74dc3d5932c86bd56",
+        "android_client_info": {
+          "package_name": "com.example.bldeacet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691894460259-4lcf708cqrekijkr7gpicuk5hkps5461.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bldeacet",
+            "certificate_hash": "55243c2ecf6c2d731bd4e90b7ad6eca11ce26dfe"
+          }
+        },
+        {
+          "client_id": "691894460259-h2e1oanvohk3t8tmqdvtjg0h6p6sc3h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmDVZYLN0u4Q92olpVJgsM5UTeCt3RkDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691894460259-h2e1oanvohk3t8tmqdvtjg0h6p6sc3h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

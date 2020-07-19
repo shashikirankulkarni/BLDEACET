@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bldeacet">
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".setNewPassword"></activity>
+        <activity android:name=".forgotPassword" />
+        <activity android:name=".facultyDashboard" />
+        <activity android:name=".fverification" />
+        <activity android:name=".fphone" />
+        <activity android:name=".facultysignup" />
+        <activity android:name=".studentDashboard" />
+        <activity android:name=".verification" />
+        <activity android:name=".sphone" />
+        <activity android:name=".studentsignup" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
